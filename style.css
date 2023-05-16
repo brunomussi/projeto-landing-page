@@ -28,8 +28,8 @@
 
 }
 .icone {
-    margin: 67px 0px 68px 174px;
-    padding: 19px;
+    margin: 30px 0px 30px 125px;
+    padding: 10px;
     }
 .textoInformativo {
     display: flex;
@@ -39,7 +39,7 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 12px;
     line-height: 150%;
     color: #383838;
 }
@@ -47,7 +47,7 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 25px;
     line-height: 150%;
     color: #247BA0;
     margin-top: 67px;
@@ -79,8 +79,7 @@
     margin-top: 25px;
     display: grid;
     grid-auto-flow: column;
-    margin-left: 15%;
-    margin-right: 15%;
+
 }
 .card {
     margin-left: 50px;
@@ -92,7 +91,7 @@
     display: none;
 }
 .seta {
-    margin-top: 130%;
+    margin-top: 90%;
     cursor: pointer;
 }
 .seta:hover {
